@@ -21,12 +21,10 @@
                                 "<h2>".$album['title']."</h2>".
                                 "<p>".$album['author']."</p>".
                                 "<p>".$album['year']."</p>".
-                                "<p>".$album['genre']."</p>".
                             "</div>";
                 }
             ?>
         </section>
     </main>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.27.2/axios.min.js" integrity="sha512-odNmoc1XJy5x1TMVMdC7EMs3IVdItLPlCeL5vSUPN2llYKMJ2eByTTAIiiuqLg+GdNr9hF6z81p27DArRFKT7A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 </body>
 </html>
